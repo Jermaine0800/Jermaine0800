@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://replicate.delivery/xpbkg/w806rUoP1aYJNBXf3257Q5c5f6c0f8c0f6c0f8c0f6c0/out-0.gif" width="100%" />
+  <img src="https://github.com/Jermaine0800/Jermaine0800/blob/main/Japanese%207-Eleven%20at%20Night%20%E2%80%93%20Cozy%20Pixel%20Art%20Scene_.jpg" width="100%" style="border-radius: 15px;" />
 </p>
 
-<h2 align="center">Estudiante de Software & Desarrollador Full Stack</h2>
+<h2 align="center">🚀 Estudiante de Software & Desarrollador Full Stack</h2>
 
 ### Hola, soy Gael 👋
 
 - 💻 Estudiante de Ingeniería en Desarrollo y Gestión de Software.
 - 🚀 Enfocado en desarrollo web, bases de datos y optimización de procesos.
 
-### 🛠️ Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
