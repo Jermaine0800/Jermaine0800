@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=200&section=header&text=¡Hola,%20Mundo!%20Soy%20Gael&fontSize=35&fontColor=fff&animation=fadeIn" />
+</p>
+
+<h2 align="center">🚀 Estudiante de Software & Desarrollador Full Stack</h2>
+
 ### Hola, soy Gael 👋
 
 - 💻 Estudiante de Ingeniería en Desarrollo y Gestión de Software.
