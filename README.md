@@ -4,22 +4,20 @@
 
 <h2 align="center">🚀 Estudiante de Software & Desarrollador Full Stack</h2>
 
-### Hola, soy Gael 👋
+<p align="center">
+  <b>Gael Jermaine De La Cruz Hernández</b> Desarrollador & Creador de Herramientas Max for Live en Ableton
+</p>
 
-- 💻 Estudiante de Ingeniería en Desarrollo y Gestión de Software.
-- 🚀 Enfocado en desarrollo web, bases de datos y optimización de procesos.
+---
 
-### Tecnologías y Herramientas
+### Sobre mí
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+Ingeniero en desarrollo de software en formación, enfocado en la arquitectura web full-stack, la gestión avanzada de bases de datos y la automatización de procesos logísticos. En paralelo, desarrollo herramientas personalizadas con Max for Live para Ableton, fusionando la lógica de programación con la producción de audio y la ingeniería de sonido.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,php,python,js,nodejs,express,react,mysql,mongodb,git,vscode,github,linux,ubuntu" />
 </p>
