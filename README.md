@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Jermaine0800/Jermaine0800/blob/main/Japanese%207-Eleven%20at%20Night%20%E2%80%93%20Cozy%20Pixel%20Art%20Scene_.jpg" width="100%" style="border-radius: 15px;" />
+  <img src="https://github.com/Jermaine0800/Jermaine0800/blob/main/JAPON%20TAO.jpg" width="100%" style="border-radius: 15px;" />
 </p>
 
 <h2 align="center">🚀 Estudiante de Software & Desarrollador Full Stack</h2>
