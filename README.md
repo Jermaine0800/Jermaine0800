@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=200&section=header&text=¡Hola,%20Mundo!%20Soy%20Gael&fontSize=35&fontColor=fff&animation=fadeIn" />
+  <img src="https://replicate.delivery/xpbkg/w806rUoP1aYJNBXf3257Q5c5f6c0f8c0f6c0f8c0f6c0/out-0.gif" width="100%" />
 </p>
 
-<h2 align="center">🚀 Estudiante de Software & Desarrollador Full Stack</h2>
+<h2 align="center">Estudiante de Software & Desarrollador Full Stack</h2>
 
 ### Hola, soy Gael 👋
 
