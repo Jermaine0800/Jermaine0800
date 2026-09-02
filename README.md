@@ -35,3 +35,16 @@ Estudiante de Ingenieria en Desarrollo y Gestion de Software orientado al diseñ
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,php,python,js,dotnet,nodejs,express,react,mysql,mongodb,git,vscode,github,linux,ubuntu" />
 </p>
+
+---
+### 🌐 Portafolio Web y Despliegues
+
+<p align="center">
+  <a href="https://tu-pagina-o-portafolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio_Live-0D1117?style=for-the-badge&logo=vercel&logoColor=white" height="35" />
+  </a>
+</p>
+
+* **[Osfactor](https://osfactor.com.mx/)**  
+  *Plataforma de Publicad y Contacto.*  
+  `PHP` · `MySQL` · `JavaScript` · [Ver Sitio Web ↗](https://osfactor.com.mx/)
